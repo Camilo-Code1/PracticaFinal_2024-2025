@@ -1,0 +1,63 @@
+/* Botón de Entrada */
+.boton-entrada {
+    -fx-background-color: #4CAF50; /* verde */
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8;
+    -fx-padding: 10 20;
+    -fx-alignment: CENTER; /* Alinear el contenido del objeto en el centro */
+    -fx-pref-width: 100;  /* Ancho deseado */
+    -fx-pref-height: 50;  /* Altura deseada */
+}
+
+.boton-menu {
+    -fx-background-color: #2ebfe5; /* verde */
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8;
+    -fx-alignment: CENTER; /* Alinear el contenido del objeto en el centro */
+    -fx-pref-width: 100;  /* Ancho deseado */
+    -fx-pref-height: 50;  /* Altura deseada */
+}
+
+/* Botón de Salida */
+.boton-salida {
+    -fx-background-color: #f44336; /* rojo */
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8;
+    -fx-padding: 10 20;
+}
+
+/* Botón de Volver Atrás */
+.boton-volver {
+    -fx-background-color: #2196F3; /* azul */
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8;
+    -fx-padding: 10 20;
+}
+
+/* Botón de Guardar */
+.boton-guardar {
+    -fx-background-color: #FF9800; /* naranja */
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8;
+    -fx-padding: 10 20;
+}
+
+/* Texto o Palabras Resaltadas */
+.resaltado {
+    -fx-text-fill: #d500f9; /* violeta fuerte */
+    -fx-font-weight: bold;
+    -fx-font-size: 14pt;
+    -fx-underline: true;
+}
+.my-title {
+
+    -fx-text-fill: #1c1cb6;
+    -fx-font: "Arial Black";
+    -fx-font-size: 25;
+}
+
